@@ -28,6 +28,30 @@
   color: #61dafb;
 }
 
+.bg-light-indigo {
+  background-color: #e6e4ff !important;
+}
+
+.btn-primary-indigo {
+  background-color: #8b81ff !important;
+  border-color: #867cff !important;
+}
+
+.btn-primary-indigo:hover {
+  color: #f6f6ff !important;
+  background-color: #7167ff !important;
+  border-color: #7167ff !important;
+}
+
+.card-btn {
+  cursor: pointer;
+}
+
+.card-btn:hover {
+  color: #f6f6ff !important;
+  background-color: #008fdc !important;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
