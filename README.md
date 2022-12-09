@@ -1,3 +1,52 @@
+## 👨‍💻This is a React Small Web App.
+- Full stack application 
+
+### 📺 Demo Images
+![react-node-coding-challenge-app](https://user-images.githubusercontent.com/59244522/206662988-fd9efeed-5833-453e-8f9a-39d88cad6fb6.jpg)
+
+
+### 🏷️ Prerequisites
+
+- Have **NodeJs** installed
+- Have **MySQL** installed
+
+### 🏷️ Installation
+
+    ✅Client Side and API together:
+    #### API - react-coding-challenge/api/
+    #### React - react-coding-challenge/
+
+ 1. Fork, clone or download this repository.
+ 2. Run ` npm install `.
+
+    > git clone git@example.org/user/repository-name-directory.git
+    > 
+    > cd repository-name-directory 
+    > 
+    > npm install
+ 
+ 3. Make database with .env DB_NAME.
+ 4. Just run App & API.
+     - (In API `npm start` will migrate tables & run seeds automatically is it not exist.)
+
+##### Run App::
+    react-coding-challenge/ 
+    > npm start
+    
+##### Run API::
+    react-coding-challenge/api/ 
+    > npm start
+
+📌 in 2022;
+
+
+______________
+______________
+______________
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
