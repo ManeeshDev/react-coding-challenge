@@ -24,21 +24,21 @@
 logs
 *.log
 
-#node_modules
-#package-lock.json
+node_modules
+package-lock.json
 
 # dependencies
-#/node_modules
+/node_modules
 
 # testing
 /coverage
 
 # production
-#/build
-#/dist
+/build
+/dist
 
 # misc
-#.env
+.env
 .DS_Store
 .env.local
 .env.development.local
