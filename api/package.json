@@ -6,6 +6,7 @@
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
+    "build": "webpack --config webpack.config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -20,10 +21,16 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
+    "clean-webpack-plugin": "^4.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-validator": "^6.13.0",
     "mysql2": "^2.0.2",
-    "sequelize": "^5.21.2"
+    "sequelize": "^5.21.2",
+    "webpack-node-externals": "^3.0.0"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "webpack-cli": "^5.0.1"
   }
 }
