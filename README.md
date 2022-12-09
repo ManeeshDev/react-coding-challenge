@@ -2,7 +2,7 @@
 - Full stack application 
 
 ### 📺 Demo Images
-![react-node-coding-challenge-app](https://user-images.githubusercontent.com/59244522/206662988-fd9efeed-5833-453e-8f9a-39d88cad6fb6.jpg)
+![react-node-coding-challenge-app](https://user-images.githubusercontent.com/59244522/206666463-7bdcaacb-8577-40f5-ac48-3c43579924b0.png)
 
 
 ### 🏷️ Prerequisites
@@ -13,8 +13,8 @@
 ### 🏷️ Installation
 
     ✅Client Side and API together:
-    #### API - react-coding-challenge/api/
-    #### React - react-coding-challenge/
+       ☑️API - react-coding-challenge/api/
+       ☑️React - react-coding-challenge/
 
  1. Fork, clone or download this repository.
  2. Run ` npm install `.
